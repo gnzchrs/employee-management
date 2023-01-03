@@ -1,0 +1,20 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.minimap.autohide": true,
+  "php.completion.autoimport-docblock": "default",
+  "php.format.rules.arrayInitializersAlignKeyValuePairs": true,
+  "php.format.rules.callParametersNewLineBeforeRightParen": true,
+  "php.format.rules.declParametersNewLineAfterLeftParen": true,
+  "php.format.rules.ifStatementNewLineAfterLeftParen": true,
+  "php.format.rules.openBraceOnNewLineForTypes": true,
+  "php.format.rules.arrayInitializersNewLineBeforeFirstElement": true,
+  "php.format.rules.declParametersNewLineBeforeRightParen": true,
+  "php.format.rules.groupUseNewLineBeforeFirstDeclaration": true,
+  "php.format.rules.newLineAfterImplements": true,
+  "php.format.rules.openBraceOnNewLineForFunctions": true,
+  "php.format.rules.spaceAfterCast": true,
+  "window.autoDetectColorScheme": false,
+  "ipynb.pasteImagesAsAttachments.enabled": false
+}
