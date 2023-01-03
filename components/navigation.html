@@ -17,7 +17,14 @@
   <button class="material-symbols-outlined " id="logout" onclick="toggleButtons()">
     logout
   </button>
-  <button class="material-symbols-outlined " id="login" style="display: none;" onclick="toggleButtons()">
+  <button class="material-symbols-outlined " id="login" style="display: none;" onclick="login()">
     login
   </button>
+</div>
+<div id="modal" style="display:none;">
+  <div class="modal-content">
+    <p>Do you want to log out?</p>
+    <button onclick="logout()">Yes</button>
+    <button onclick="closeModal()">No</button>
+  </div>
 </div>
